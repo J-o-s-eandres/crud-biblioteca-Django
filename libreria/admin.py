@@ -3,4 +3,4 @@ from .models import Libro
 # Register your models here.
 
 
-admin.site.register(Libro)
+admin.site.register(Libro)#registrando el modelo
